@@ -1,0 +1,177 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.header1 {
+  margin: 40px 0;
+}
+
+#h1yg1 {
+  text-align: center;
+  color: #04aa6d;
+  font-size: 32px;
+}
+
+#h5yg1 {
+  text-align: center;
+  font-size: 18px;
+}
+
+.section1 {
+  padding: 80px 0px;
+  width: 100%;
+  background-color: #00ffee;
+  color: white;
+  margin: 16px 0;
+}
+
+.group1 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+#h1yg2 {
+  font-size: 100px;
+}
+
+#h5yg2 {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+#hrefyg2 {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: #b3ff00;
+  color: rgb(0, 158, 243);
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+#hrefyg3 {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: white;
+  color: black;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+}
+
+.group2 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+#gmbr1 {
+  width: 450px;
+}
+
+.section2 {
+  padding: 80px 0px;
+  width: 100%;
+  background-color: #d9eee1;
+  color: black;
+  margin: 16px 0;
+}
+
+.group3 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+#gmbr3 {
+  width: 450px;
+}
+
+.group4 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+#h1yg4 {
+  font-size: 100px;
+}
+
+#h5yg4 {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+#hrefgroup4 {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: #ff0000;
+  color: white;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+#hrefgroup41 {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: rgb(0, 255, 38);
+  color: white;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+}
+
+.footer1 {
+  text-align: center;
+  background-color: #282a35;
+  color: white;
+  padding: 40px 0;
+}
